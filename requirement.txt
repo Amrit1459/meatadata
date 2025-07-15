@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+easyocr
+pypdf
+python-docx
+python-dotenv
+langchain
+langchain-groq
+pydantic
+python-multipart
+groq
